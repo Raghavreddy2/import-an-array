@@ -1,0 +1,15 @@
+/* Write your code here. */
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0px;
+}
+.bg-cont {
+  background-image: url("https://assets.ccbp.in/frontend/react-js/social-buttons-bg.png");
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
